@@ -38,7 +38,7 @@ Block-Explorer: https://mygexplorer.com<br>
 Android-App: https://play.google.com/store/apps/details?id=com.mygexplorer.myg<br>
 Web-Wallet: https://wallet.mygcoin.com/<br>
 
-MitItUp Community Commands:<br>
+MixItUp Community Commands:<br>
 MYG-Main: https://mixitupapp.com/community/command/434aa114-d6db-4402-8324-d058f2e3e89b<br>
 MYG-Balance: https://mixitupapp.com/community/command/3d6306b3-edf1-48b8-854c-0cde142c325e<br>
 MYG-Status: https://mixitupapp.com/community/command/7dd39dc1-4ac8-4d2d-996f-46c122c5c3fe<br>
