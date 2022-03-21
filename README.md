@@ -17,12 +17,14 @@ Important: This project is mainly for fun and not for profit.
 We would love to bring crypto to streamers and their audience for further crypto adoption.
 Ask us to get you started. Tell us about your stream or game-implementation idea.
 
+
 Code: MYG
 Name: MYG Coin (MY Game Coin)
 PoS reward per block: 100 MYG
 Algo: Scrypt
 RPC-Port: 43027
 P2P-Port: 43028
+
 
 Coin-Supply:  1.000.000.000+
 Block-Time: 60 seconds
