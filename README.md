@@ -45,6 +45,8 @@ MYG-Status: https://mixitupapp.com/community/command/7dd39dc1-4ac8-4d2d-996f-46c
 
 Github: https://github.com/MyGCoin/MYG-Coin-v2-21032022-Public<br>
 
+Explainer-Video: https://www.youtube.com/watch?v=3Kcu1UInGg0 
+
 Twitter: https://twitter.com/MYGCoin<br>
 Discord: https://discord.gg/QskBFZJs9b<br>
 
